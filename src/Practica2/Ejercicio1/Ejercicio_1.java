@@ -7,7 +7,6 @@ package Practica2.Ejercicio1;
  */
 
 public class Ejercicio_1 {
-
     /**
      * Método principal que crea y lanza 30 hilos.
      */
